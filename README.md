@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lachin Fernando
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Automation, Python Programming..
-- 🌱 I’m currently learning Javascript, React
-- 💞️ I’m looking to collaborate on open source ML Projects specifically in NLP and CV domains
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Automation,Python Programming.....
+- 🌱 I’m currently learning Javascript and React for mobile and web application developments.
+- 💞️ I’m looking to collaborate on open source ML Projects specifically in NLP and CV domains.
 - 📫 How to reach me ... https://www.linkedin.com/in/lachin-fernando/
 
 <!---
