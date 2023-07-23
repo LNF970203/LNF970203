@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <!---
 LNF970203/LNF970203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
