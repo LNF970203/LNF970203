@@ -3,6 +3,7 @@
 - 👀 I’m a Full-stack Engineer.....
 - 🌱 I’m currently researching on integrating Machine Learning and Deep Learning with Internet of Robotic Things (IoRT).
 - 💞️ I’m looking to collaborate on open source ML Projects specifically in NLP and CV domains.
+- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lachin-fernando/)
 <div id="badges">
   <a href="https://www.linkedin.com/in/lachin-fernando/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
