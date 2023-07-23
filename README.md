@@ -1,8 +1,10 @@
+### :woman_technologist: About Me :
+I am a Full Stack Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+
 - 👋 Hi, I’m Lachin Fernando
 - 👀 I’m an AI expert specialized in Computer Vision, Natural Language Processing, Generative Adversarial Networks.....
-- 👀 I’m a Full-stack Engineer.....
 - 🌱 I’m currently researching on integrating Machine Learning and Deep Learning with Internet of Robotic Things (IoRT).
-- 💞️ I’m looking to collaborate on open source ML Projects specifically in NLP and CV domains.
+- 💞️ I am an experienced machine learning instructor dedicated to guiding and supporting various study groups in mastering a wide array of machine learning techniques and projects.
 - :mailbox:How to reach me: :point_down:
 <div id="badges">
   <a href="https://www.linkedin.com/in/lachin-fernando/">
