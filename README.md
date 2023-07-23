@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Lachin Fernando
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Automation,Python Programming.....
-- 🌱 I’m currently learning Javascript and React for mobile and web application developments.
+- 👀 I’m an AI expert specialized in Computer Vision, Natural Language Processing, Generative Adversarial Networks.....
+- 👀 I’m a Full-stack Engineer.....
+- 🌱 I’m currently researching on integrating Machine Learning and Deep Learning with Internet of Robotic Things (IoRT).
 - 💞️ I’m looking to collaborate on open source ML Projects specifically in NLP and CV domains.
 - 📫 How to reach me ... https://www.linkedin.com/in/lachin-fernando/
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif/>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
 <!---
