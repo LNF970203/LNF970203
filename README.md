@@ -30,7 +30,7 @@ I am a Full Stack Machine Learning Engineer <img src="https://media.giphy.com/me
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-LNF970203&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LNF970203&theme=dark)](https://git.io/streak-stats)
 
 <!---
 LNF970203/LNF970203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
