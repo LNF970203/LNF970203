@@ -1,4 +1,4 @@
-### :hammer_and_wrench: About Me :
+### About Me :
 I am a Full Stack Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 
 - 👋 Hi, I’m Lachin Fernando
